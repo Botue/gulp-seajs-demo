@@ -1,0 +1,17 @@
+{
+  "name": "gulp-seajs-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-clean": "^0.3.2",
+    "gulp-seajs-concat": "^1.0.5",
+    "gulp-seajs-transport": "^0.4.0",
+    "gulp-uglify": "^2.0.0"
+  }
+}

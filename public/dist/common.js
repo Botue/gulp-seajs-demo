@@ -1,0 +1,1 @@
+define("./public/dist/common",["jquery","./utils/format"],function(i,o,t){var e=i("jquery");i("./utils/format"),e("h2").css("color","red")}),define("./public/dist/utils/format",[],function(i,o,t){return"some code..."});

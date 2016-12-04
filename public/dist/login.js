@@ -1,0 +1,1 @@
+define("./public/dist/login",["jquery"],function(i,e,n){var t=i("jquery");t("h2").animate({fontSize:40},600)});
